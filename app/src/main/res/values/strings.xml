@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">native-crasher</string>
+    <string name="make_native_crash">Make native crash</string>
+    <string name="make_native_anr">Make native ANR</string>
+</resources>
