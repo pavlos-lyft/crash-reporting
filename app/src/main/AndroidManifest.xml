@@ -21,6 +21,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <meta-data
+            android:name="com.bugsnag.android.API_KEY"
+            android:value="38cf849556a118971fde4d8f8aa64683"
+            />
+        <meta-data
+            android:name="com.bugsnag.android.DETECT_NDK_CRASHES"
+            android:value="true"
+            />
     </application>
 
 </manifest>
